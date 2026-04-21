@@ -3,7 +3,8 @@ I am Deywar Garcia and, a Computer Science Student who's really into computers. 
 
 I'm currently finishing my path as a Back-end Developer taking classes on Boot.dev learning Go-lang services and API implementation. Havent land a job yet, but making sure every step I take every day is a step forward on getting %1 better. 
 
-### Current Book: Pragmmatic Programmer by David Thomas and Andrew Hunt
+### Current Book
+ Pragmmatic Programmer by David Thomas and Andrew Hunt [link](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 ### You can reach me at this mail : **gdeywarvzla@gmail.com** || or through Telegram as : **@ignotus7**
 
