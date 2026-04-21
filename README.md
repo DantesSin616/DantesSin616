@@ -1,8 +1,13 @@
-## Hi, I'm Ignotus.
+## Hi, I'm Dantes.
 
-Computer Science Student who's really into computers. I'm really passionate about building reliable and scalable software with a vision established more on Backend services and some lowlevel programming, also interested in LLM/AI.
+Computer Science Student who's really into computers. I'm really passionate about building reliable and scalable software with a vision established more on Backend services and some lowlevel programming, also interested in LLM/AI, and Cybersecurity. 
 
 I'm currently finishing my path as a Back-end Developer taking classes on Boot.dev learning Go-lang services and API implementation. Havent land a job yet, but making sure every step I take every day is a step forward on getting %1 better. 
+
+## Languages 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 
 ### Current Book
  Pragmmatic Programmer by David Thomas and Andrew Hunt. [Link](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
