@@ -1,12 +1,16 @@
-## Hi there! 
-I am Deywar Garcia and, a Computer Science Student who's really into computers. I'm really passionate about building reliable and scalable software with a vision established more on Backend services and some lowlevel programming, also interested in LLM/AI.
+## Hi, I'm Ignotus.
+
+Computer Science Student who's really into computers. I'm really passionate about building reliable and scalable software with a vision established more on Backend services and some lowlevel programming, also interested in LLM/AI.
 
 I'm currently finishing my path as a Back-end Developer taking classes on Boot.dev learning Go-lang services and API implementation. Havent land a job yet, but making sure every step I take every day is a step forward on getting %1 better. 
 
 ### Current Book
- Pragmmatic Programmer by David Thomas and Andrew Hunt [link](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+ Pragmmatic Programmer by David Thomas and Andrew Hunt. [Link](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
-### You can reach me at this mail : **gdeywarvzla@gmail.com** || or through Telegram as : **@ignotus7**
+### Ways you can reach me.
+
+- Gmail: **gdeywarvzla@gmail.com**
+- Telegram: **@ignotus7**
 
 ### Some of my hobbies are: 
 
